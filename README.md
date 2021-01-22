@@ -6,3 +6,5 @@
 [Рекурсия и стек](https://nbviewer.jupyter.org/github/AlexViPy/Algorithms_and_DataStructures/blob/main/recursion.ipynb)
 
 [Быстрая сортировка]
+
+[Хеш-таблицы]
